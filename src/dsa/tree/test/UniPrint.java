@@ -1,7 +1,7 @@
 package dsa.tree.test;
 
-import impl.dsa.Iterator;
-import impl.dsa.tree.*;
+import dsa.Iterator;
+import dsa.tree.*;
 
 import java.util.HashMap;
 

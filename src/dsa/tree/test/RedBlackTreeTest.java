@@ -1,6 +1,6 @@
 package dsa.tree.test;
 
-import impl.dsa.tree.RBTree;
+import dsa.tree.RBTree;
 
 import java.util.Random;
 

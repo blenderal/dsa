@@ -1,7 +1,7 @@
 package dsa.tree.test;
 
 
-import impl.dsa.tree.BTree;
+import dsa.tree.BTree;
 
 /**
  * @description:
